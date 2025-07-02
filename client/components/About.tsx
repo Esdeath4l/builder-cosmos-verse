@@ -44,7 +44,7 @@ export default function About() {
           <div className="order-1 md:order-2 flex justify-center">
             <div className="w-80 h-96 bg-sage-100 rounded-2xl shadow-lg overflow-hidden">
               <img
-                src="https://images.pexels.com/photos/4100484/pexels-photo-4100484.jpeg?auto=compress&cs=tinysrgb&w=800"
+                src="https://images.pexels.com/photos/7578806/pexels-photo-7578806.jpeg?auto=compress&cs=tinysrgb&w=800"
                 alt="Dr. Serena Blake"
                 className="w-full h-full object-cover"
               />
