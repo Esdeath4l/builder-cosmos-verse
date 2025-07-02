@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button";
 
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-sage-50 to-sage-100 px-4 md:px-8">
+    <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-sage-50 to-sage-100 px-4 md:px-8 pt-16">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-light text-sage-900 mb-6 leading-tight">
           Welcome, I'm{" "}
