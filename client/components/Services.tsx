@@ -4,21 +4,24 @@ export default function Services() {
       title: "Anxiety & Stress Management",
       description:
         "Learn effective coping strategies to manage anxiety, reduce stress, and regain control over overwhelming thoughts and feelings. We'll work together to identify triggers and develop personalized tools for lasting relief.",
-      image: "/api/placeholder/400/300",
+      image:
+        "https://images.pexels.com/photos/7699526/pexels-photo-7699526.jpeg?auto=compress&cs=tinysrgb&w=800",
       fee: "$180 per session",
     },
     {
       title: "Relationship Counseling",
       description:
         "Strengthen your relationships through improved communication, conflict resolution, and deeper emotional connection. Whether you're working on romantic partnerships, family dynamics, or friendships, we'll focus on building healthier patterns.",
-      image: "/api/placeholder/400/300",
+      image:
+        "https://images.pexels.com/photos/4101143/pexels-photo-4101143.jpeg?auto=compress&cs=tinysrgb&w=800",
       fee: "$200 per session",
     },
     {
       title: "Trauma Recovery",
       description:
         "Heal from past traumatic experiences using evidence-based approaches like EMDR and trauma-focused CBT. Create a safe space to process difficult memories and develop resilience for moving forward with hope and strength.",
-      image: "/api/placeholder/400/300",
+      image:
+        "https://images.pexels.com/photos/5207327/pexels-photo-5207327.jpeg?auto=compress&cs=tinysrgb&w=800",
       fee: "$190 per session",
     },
   ];
